@@ -8,4 +8,8 @@ On common operating systems, one powerful way to bypass security policies is to 
 
 [LKML patches](https://lore.kernel.org/all/20230505152046.6575-1-mic@digikod.net/)
 
-[Linux Security Summit North America 2023 talk](https://sched.co/1K7bR)
+# [Linux Security Summit North America 2023 talk](https://sched.co/1K7bR)
+
+* [Slides](talks/2023-05-11%20LSS%20-%20Heki.pdf)
+* [Demo noexec](talks/2023-05-11%20demo%20Heki%20noexec.webm)
+* [Demo CR-pinning](talks/2023-05-11%20demo%20Heki%20cr-pinning.webm)
