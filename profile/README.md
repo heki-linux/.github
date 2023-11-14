@@ -10,6 +10,13 @@ On common operating systems, one powerful way to bypass security policies is to 
 
 [LKML patches](https://lore.kernel.org/all/20231113022326.24388-1-mic@digikod.net/)
 
+### [Linux Plumbers Conference 2023 talk](https://lpc.events/event/17/contributions/1486/)
+
+* [Slides](talks/2023-11-14%20LPC%20-%20Heki.pdf)
+* [Demo CR-pinning](talks/2023-11-14%20demo%20Heki%20cr-pinning.webm)
+* [Demo noexec](talks/2023-11-14%20demo%20Heki%20noexec.webm)
+* [Kernel module](talks/2023-11-14%20demo%20Heki%20kernel%20module.webm)
+
 ## RFC v1
 
 [Patched Linux source tree](https://github.com/heki-linux/linux/commits/heki-v1)
