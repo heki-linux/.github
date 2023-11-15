@@ -15,7 +15,7 @@ On common operating systems, one powerful way to bypass security policies is to 
 * [Slides](talks/2023-11-14%20LPC%20-%20Heki.pdf)
 * [Demo CR-pinning](talks/2023-11-14%20demo%20Heki%20cr-pinning.webm)
 * [Demo noexec](talks/2023-11-14%20demo%20Heki%20noexec.webm)
-* [Kernel module](talks/2023-11-14%20demo%20Heki%20kernel%20module.webm)
+* [Demo kernel module](talks/2023-11-14%20demo%20Heki%20kernel%20module.webm)
 
 ## RFC v1
 
